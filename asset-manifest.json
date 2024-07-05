@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/job-portal/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/job-portal/static/js/main.acc1d508.chunk.js",
-    "main.js.map": "/job-portal/static/js/main.acc1d508.chunk.js.map",
-    "runtime-main.js": "/job-portal/static/js/runtime-main.1865c958.js",
-    "runtime-main.js.map": "/job-portal/static/js/runtime-main.1865c958.js.map",
-    "static/js/2.af2eea1b.chunk.js": "/job-portal/static/js/2.af2eea1b.chunk.js",
-    "static/js/2.af2eea1b.chunk.js.map": "/job-portal/static/js/2.af2eea1b.chunk.js.map",
-    "static/js/3.5c0f3ed4.chunk.js": "/job-portal/static/js/3.5c0f3ed4.chunk.js",
-    "static/js/3.5c0f3ed4.chunk.js.map": "/job-portal/static/js/3.5c0f3ed4.chunk.js.map",
+    "main.js": "/job-portal/static/js/main.4ffa9faa.chunk.js",
+    "main.js.map": "/job-portal/static/js/main.4ffa9faa.chunk.js.map",
+    "runtime-main.js": "/job-portal/static/js/runtime-main.a46c65f2.js",
+    "runtime-main.js.map": "/job-portal/static/js/runtime-main.a46c65f2.js.map",
+    "static/js/2.a78dc0eb.chunk.js": "/job-portal/static/js/2.a78dc0eb.chunk.js",
+    "static/js/2.a78dc0eb.chunk.js.map": "/job-portal/static/js/2.a78dc0eb.chunk.js.map",
+    "static/js/3.fcc83913.chunk.js": "/job-portal/static/js/3.fcc83913.chunk.js",
+    "static/js/3.fcc83913.chunk.js.map": "/job-portal/static/js/3.fcc83913.chunk.js.map",
     "index.html": "/job-portal/index.html",
-    "precache-manifest.c331d332083fe31460c21b76aee58ca6.js": "/job-portal/precache-manifest.c331d332083fe31460c21b76aee58ca6.js",
+    "precache-manifest.66fab92c301a95a80977e48037ff5fc7.js": "/job-portal/precache-manifest.66fab92c301a95a80977e48037ff5fc7.js",
     "service-worker.js": "/job-portal/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/job-portal/static/css/main.435d5fe5.chunk.css.map",
-    "static/js/2.af2eea1b.chunk.js.LICENSE.txt": "/job-portal/static/js/2.af2eea1b.chunk.js.LICENSE.txt",
+    "static/js/2.a78dc0eb.chunk.js.LICENSE.txt": "/job-portal/static/js/2.a78dc0eb.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/job-portal/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1865c958.js",
-    "static/js/2.af2eea1b.chunk.js",
+    "static/js/runtime-main.a46c65f2.js",
+    "static/js/2.a78dc0eb.chunk.js",
     "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.acc1d508.chunk.js"
+    "static/js/main.4ffa9faa.chunk.js"
   ]
 }
