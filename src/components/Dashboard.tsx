@@ -31,11 +31,11 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.down('sm')]: {
       padding: theme.spacing(1),
     },
-    color: theme.palette.common.white,
+    color: theme.palette.common.black,
   },
   tableHeader: {
-    backgroundColor: '#FFC107',
-    color: theme.palette.common.black,
+    backgroundColor: '#45474B',
+    color: theme.palette.common.white,
     fontWeight: 'bold',
   },
   link: {
@@ -53,7 +53,7 @@ export default function Dashboard() {
   const [order, setOrder] = useState<'asc' | 'desc'>('asc');
 
   const getRowColor = (index: number) => {
-    const colors = ['#424242', '#616161'];
+    const colors = ['#F5F7F8', '#D0D4CA'];
     return colors[index % 2];
   };
 
